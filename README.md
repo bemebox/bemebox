@@ -9,4 +9,5 @@ I'm Bruno from Portugal. I'm Technical Team Leader, and do back-end and front-en
 * 🐍 Python
 * 🌐 VueJs
 * 🏭 Microservices
+* 🏬 SQL, MySQL, MongoDB
 * 💻 HTML, CSS, JS
